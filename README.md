@@ -41,7 +41,7 @@
   <ul>
     <li>Python</li>
     <li>LangChain</li>
-    <li>Open AI ApI</li>
+    <li>Open AI API</li>
     <li>Youtube API</li>
     <li>Streamlit</li>
   </ul>
