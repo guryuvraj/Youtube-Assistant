@@ -33,7 +33,11 @@
 
   </p>
 
-  <h3>Made using: </h3>
+ 
+</div>
+
+<div>
+   <h3>Made using: </h3>
   <ul>
     <li>Python</li>
     <li>LangChain</li>
