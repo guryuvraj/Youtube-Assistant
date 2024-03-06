@@ -32,6 +32,15 @@
     ![Untitled-ezgif com-video-to-gif-converter](https://github.com/guryuvraj/Youtube-Assistant/assets/98197801/8ace7a99-9021-4671-b80b-c923d141d874)
 
   </p>
+
+  <h3>Made using: </h3>
+  <ul>
+    <li>Python</li>
+    <li>LangChain</li>
+    <li>Open AI Api</li>
+    <li>Youtube API</li>
+    <li>Streamlit</li>
+  </ul>
 </div>
 
 
