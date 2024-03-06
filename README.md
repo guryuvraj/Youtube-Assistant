@@ -10,8 +10,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/guryuvraj-singh-213730a1/]
-
 
 
 <!-- PROJECT LOGO -->
@@ -24,12 +22,15 @@
 <h3 align="center">Youtube Assistant</h3>
 
   <p align="center">
-    project_description
+ <h3>Ever watched a YouTube video and wished you could ask a question directly on a specific scene or moment?</h3> <br>
+    YourTube makes this possible. Select any video, pinpoint the exact moment that intrigues you, and post your question. It's that simple!
+
+  YourTube is designed for curious minds and enthusiastic learners who seek more from their video experience.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <h3> Demo </h3>
+    ![Untitled-ezgif com-video-to-gif-converter](https://github.com/guryuvraj/Youtube-Assistant/assets/98197801/8ace7a99-9021-4671-b80b-c923d141d874)
+
   </p>
 </div>
 
